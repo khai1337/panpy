@@ -1,1 +1,0 @@
-from panelyz import panel

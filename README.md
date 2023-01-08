@@ -1,2 +1,1 @@
-# panpy
-Python wrapper for the Panelyz.com API
+unfinished api wrapper for panelyz

@@ -1,1 +1,1 @@
-from panel import *
+from panelyz import *
